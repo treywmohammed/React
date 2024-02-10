@@ -6,7 +6,7 @@ function NavBar() {
     <div className='navBarContainer'>
         <div className='navBarleft'>Where 1</div>
         <div className='navBarCenter'>Where 2</div>
-        <div className='navBarRight'>Where 2</div>
+        <div className='navBarRight'>Where 3</div>
     </div>    
   );
 }
