@@ -1,0 +1,10 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.navBarContainer {
+    display: flex;
+    justify-content: space-around;
+    margin: 1rem;
+}
